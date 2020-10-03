@@ -185,12 +185,15 @@
                 <hr id="hrline">
                 <div id="footwrapper">
                     <div id="socmed">
+			<a href="https://www.facebook.com/search/top?q=identity%20v">
                         <div class="logo-facebook-small">
                             <div class="longpiece"></div>
                             <div class="longpiece-none"></div>
                             <div class="shortpiece"></div>
                             <div class="shortpiece-none"></div>
                         </div>
+			</a>
+			<a href="https://twitter.com/gameidentityv?lang=en">
                         <div class="logo-twitter-small">
                             <div class="body"></div>
                             <div class="body-none"></div>
@@ -206,9 +209,12 @@
                             <div class="beak-top-none"></div>
                             <div class="head"></div>
                         </div>
+			</a>
+			<a href="https://www.youtube.com/channel/UC1FRTIuM6_dGdGcpJU81U-g">
                         <div class="youtube">
                             <div class = "play"></div>
                         </div>
+			</a>
 			<a href="https://github.com/Yeshuya/web-anim-project">
                         <div class="logo-github-small">
                             <div class="ear-one-left"></div>
@@ -232,7 +238,7 @@
                             <div class="chin-left"></div>
                             <div class="chin-right"></div>
                         </div>
-			    </a>
+			</a>
                     </div>
                     <div id="copyright">
                         ©JOKER STUDIO ©2020 NETEASEINC. ALL RIGHTS RESERVE.

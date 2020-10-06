@@ -7,11 +7,6 @@
     <body>
         <div id="container">
             <div id="header">
-                <div id="nav_bar1">
-                    <a href="">HOME</a>
-                    <a href="">BACKGROUND</a>
-                    <a href="">CHARACTERS</a>
-                </div>
                 <div id="logo_main">
                     <h1>V</h1>
                     <div id="circleLogo">
@@ -19,11 +14,6 @@
                             <div id="eye"></div>
                         </div>
                     </div>
-                </div>
-                <div id="nav_bar2">
-                    <a href="">EVENTS</a></li>
-                    <a href="">ABOUT US</a></li>
-                    <a href="">DISCORD</a></li>
                 </div>
             </div>
             <div class="content">

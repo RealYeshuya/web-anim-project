@@ -6,16 +6,6 @@
     </head>
     <body>
         <div id="container">
-            <div id="header">
-                <div id="logo_main">
-                    <h1>V</h1>
-                    <div id="circleLogo">
-                        <div id="eyeball">
-                            <div id="eye"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
             <div class="content">
                 <div id="firstwrapper">
                     <div id="titlewrapper">

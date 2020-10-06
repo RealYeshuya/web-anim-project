@@ -25,7 +25,7 @@ body{
     transform: rotate(45deg);
     overflow: hidden;
     justify-content: center;
-	position: absolute;
+    position: absolute;
     margin: 0 auto;
     top: -40px;
     left: 683px;
@@ -172,16 +172,6 @@ body{
     top: 17%;
     left: 18%;
     transform: rotate(45deg);
-}
-
-@keyframes blink {
-    0%, 100% {
-        transform: scale(1, .05);
-    }
-    5%,
-    95% {
-        transform: scale(1, 1);
-    }
 }
 
 /* End of Title Logo */
